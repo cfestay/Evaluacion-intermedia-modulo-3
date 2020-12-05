@@ -3,7 +3,7 @@ CURSO: 156-3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 INTEGRANTES EQUIPO SAYAJINE'S SECURITY:
 
- *GONZALO GODOY || https://github.com/Gongo
+ *GONZALO GODOY || https://github.com/Gongodes
  *VANESSA AMARO || https://github.com/Vamartcl0216
  *YOSSIE MUÑOZ  || https://github.com/PomPooon
  *CARLOS ESTAY  || https://github.com/cfestay
